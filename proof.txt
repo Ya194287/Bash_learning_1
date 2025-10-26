@@ -1,0 +1,8 @@
+Задание 2
+
+1. Добавлено в ~/.bashrc строка:
+   export PATH="$PATH:/tmp/demo_bin"
+
+2. Выполнена команда: source ~/.bashrc
+
+3. PATH успешно обновлен
